@@ -1,0 +1,1 @@
+String tokenStorageKey = 'tokenAuth';
